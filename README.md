@@ -32,7 +32,8 @@ Types of Visualizations: JavaScript can be used to create a wide range of data v
 
 # Belly Button Biodiversity
 
-![microbes](https://github.com/JasmineBamba/JavaScript_belly-button/assets/135666038/1d3f7be9-719f-49aa-a930-2f7e374e3e27)
+![image](https://github.com/JasmineBamba/JavaScript_belly-button/assets/135666038/7d77c47e-6ca6-4bbf-98c8-daac187b9711)
+
 
 ## Table of Contents
 
@@ -42,7 +43,9 @@ Types of Visualizations: JavaScript can be used to create a wide range of data v
 - [References](#ref)
 
 ### Project Overview
-![image](https://github.com/JasmineBamba/JavaScript_belly-button/assets/135666038/5fdda586-8c81-4cb0-bf5f-c253b66b18dd)
+
+![image](https://github.com/JasmineBamba/JavaScript_belly-button/assets/135666038/9775fd74-84f5-4747-b5a0-886f510b9ad4)
+
 
 The goal of this project is to build an interactive web application for visualizing data from the "samples.json" file, providing users with insights into the top 10 Operational Taxonomic Units (OTUs) found in an individual. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare. The application consists of a horizontal bar chart, a bubble chart, a gauge chart and a display of demographic information.
 
