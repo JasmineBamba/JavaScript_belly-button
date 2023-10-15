@@ -5,6 +5,8 @@
 
 ![image](https://github.com/JasmineBamba/JavaScript_belly-button/assets/135666038/9c7124e0-7c07-4e22-86f8-1da0149609c4)
 
+![image](https://github.com/JasmineBamba/JavaScript_belly-button/assets/135666038/9c7124e0-7c07-4e22-86f8-1da0149609c4)
+
 JavaScript data visualization is the process of using the JavaScript programming language to create interactive and visually appealing representations of data. It allows you to take raw data and transform it into charts, graphs, maps, or other visual elements that make it easier for users to understand and analyze information. Here's a brief introduction to JavaScript data visualization:
 
 ### Purpose: 
