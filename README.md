@@ -37,6 +37,7 @@ Types of Visualizations: JavaScript can be used to create a wide range of data v
 
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
+- [Access to Deployed App](#deployed-app)
 - [References](#ref)
 
 ### Project Overview
@@ -50,6 +51,11 @@ The goal of this project is to build an interactive web application for visualiz
 - JavaScript for interactivity.
 - HTML and CSS for structuring and styling the web page.
 - The "samples.json" file as the data source.
+
+### Access to Deployed App
+
+GitHub Pages
+https://jasminebamba.github.io/JavaScript_belly-button/
 
 ### References
 
